@@ -8,7 +8,7 @@
   "server": {
     "ip": "VAM1-d86f.aternos.me:53140",
     "port": 53140,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
