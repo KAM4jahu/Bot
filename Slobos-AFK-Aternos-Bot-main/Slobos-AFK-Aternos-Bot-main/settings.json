@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VAM1-d86f.aternos.me:53140",
+    "ip": "VAM1-d86f.aternos.me",
     "port": 53140,
     "version": "",
     "try-creative": false
